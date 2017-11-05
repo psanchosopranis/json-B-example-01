@@ -1,0 +1,12 @@
+{
+    "nombre": "Juan Hernández Pérez-Tuñón",
+    "p-fis-jur": "F",
+    "id-fiscal": "22222222X",
+    "direccion": {
+        "linea1": "Martínez Villergas, 52. Edificio B - Planta 6",    
+        "localidad": "MADRID",
+        "codigo-postal": "28027",
+        "provincia": "MADRID",
+        "telefono1": "+34 91 556 0013"
+    }
+}
